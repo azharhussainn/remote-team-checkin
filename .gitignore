@@ -30,7 +30,7 @@ bld/
 *.lutdcache.*
 DocumentLayout.*
 FileContentIndex/
-*.futdcache.v2
+*.*cache.v2
 
 # Local configs
 appsettings.Development.json

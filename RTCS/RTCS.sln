@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "rtcs.client", "rtcs.client\rtcs.client.esproj", "{99046BF6-B8B9-9F18-536D-579144E8AE89}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTCS.Server", "RTCS.Server\RTCS.Server.csproj", "{5A3BBDAB-0925-4E73-8183-742978A8726E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99046BF6-B8B9-9F18-536D-579144E8AE89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99046BF6-B8B9-9F18-536D-579144E8AE89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99046BF6-B8B9-9F18-536D-579144E8AE89}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{99046BF6-B8B9-9F18-536D-579144E8AE89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99046BF6-B8B9-9F18-536D-579144E8AE89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99046BF6-B8B9-9F18-536D-579144E8AE89}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{5A3BBDAB-0925-4E73-8183-742978A8726E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A3BBDAB-0925-4E73-8183-742978A8726E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A3BBDAB-0925-4E73-8183-742978A8726E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A3BBDAB-0925-4E73-8183-742978A8726E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A055482-EA6B-44E7-B9DC-D47452C6724A}
+	EndGlobalSection
+EndGlobal

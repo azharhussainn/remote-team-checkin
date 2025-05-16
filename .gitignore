@@ -23,6 +23,23 @@ bld/
 [Ll]og/
 [Ll]ogs/
 
+
+# Visual Studio files
+*.suo
+*.user
+*.lutdcache.*
+DocumentLayout.*
+FileContentIndex/
+*.futdcache.v2
+
+# Local configs
+appsettings.Development.json
+Properties/launchSettings.json
+
+# Node/React
+package-lock.json
+vite.svg
+
 # .NET Core
 project.lock.json
 project.fragment.lock.json

@@ -1,0 +1,31 @@
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+node_modules/
+dist/
+dist-ssr/
+.cache/
+.temp/
+
+# Environment files (exclude local overrides)
+.env*.local
+.env.development
+.env.production
+
+# Editor/IDE
+.vscode/*
+!.vscode/extensions.json  
+.idea/
+.DS_Store
+*.sw?
+
+# Build tools (e.g., Vite)
+*.bin
+*.tsbuildinfo
+
+coverage/  
+*.local   
